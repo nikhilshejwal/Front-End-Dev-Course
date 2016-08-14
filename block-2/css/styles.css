@@ -32,8 +32,8 @@ li{
 	top: -60px;
 	left:40%;
 	height:120px;
-    
-	background: url('../images/pro.jpg');
+    width:120px;
+	background: url('/images/pro.jpg');
 	background-size: cover;
 }
 .name-header{
